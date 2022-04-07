@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://josue9405.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Aprendizaje en Launch X</title>
+      <link>https://josue9405.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://josue9405.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Iniciamos este viaje aproximadamente dos meses atras, en esta travesía he podido reforzar temas que ya conocía y desempolvar conocimientos. Por supuesto que he adquirido nuevas habilidades.
+Hemos visto conocimientos básicos de programación, desde la declaración de una variable hasta poder desplegar una página como la presente. Algunas nuevas experiencias con nuevos elementos como usar Tailwind CSS y VUE CLI.
+Aún queda mucho por recorrer, vamos iniciando backend y en mi caso JavaScript, con muchas ganas de aprender.</description>
+    </item>
+    
+    <item>
       <title>La cultura de un desarrollad@r de Software</title>
       <link>https://josue9405.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 04 Apr 2022 21:55:21 -0600</pubDate>
