@@ -1,21 +1,18 @@
 ---
-title: 'About me'
+title: 'Sobre mi'
 menu:
   main:
-    name: "AboutMe"
+    name: "Sobre mi"
 ---
 
-## Who am I
+## ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> * Soy ingeniero en Sistemas
+> * Tengo 27 años
+> * Aficionado a la fotografía
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**Hola** soy Josue Efrain, estudie una ingenieria en sistemas. Actualmente trabajo como analista y desarrollo de microservicios, en mis tiempos libres tengo
+un pequeño canal en YouTube y suelo salir a tomar fotografías. Desde muy niño siempre me gusto tomar una cámara y acabar con el rollo de pelicula, gracias a Dios 
+se inventaron las digitales si no creo que ya no tendría espacio :sweat_smile:
